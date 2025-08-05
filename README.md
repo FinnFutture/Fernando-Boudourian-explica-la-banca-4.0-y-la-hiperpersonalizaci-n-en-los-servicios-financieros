@@ -1,1 +1,4 @@
 # Fernando-Boudourian-explica-la-banca-4.0-y-la-hiperpersonalizaci-n-en-los-servicios-financieros
+Esta etapa evolución de la banca propone una innovadora propuesta para respuestas a las necesidades de los clientes. 
+La banca 4.0 se ejecuta como un nuevo modelo de innovación en el sector bancario, contado con gran diferencia respecto al uso de herramientas que trajo la digitalización en las finanzas, al distinguirse por su capacidad para ofrecer experiencias hiperpersonalizadas, aprovechando la inteligencia artificial (IA), el big data y el aprendizaje automático.
+Diversas instituciones financieras del mundo comenzaron a adaptar este modelo en búsqueda de optimizar la eficiencia operativa y diferenciarse de la competencia al ofrecer productos y servicios a las necesidades específicas de cada cliente.
